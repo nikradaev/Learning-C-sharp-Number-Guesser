@@ -3,10 +3,10 @@
 // namespace
 namespace NumberGuesser
 {
-
-    // main class
+ 
     class Program
     {
+         // method to cange color of text
         void ColorMessage(string message, string color)
         {
         // change textcolor
